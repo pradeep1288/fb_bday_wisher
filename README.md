@@ -1,6 +1,9 @@
 fb_bday_wisher
 ==============
 
-A simple python script to wish my friends on their birthays
+A simple python application to wish your friends a happy birthday on facebook
 
-Will add instructions shortly.
+**Dependencies**
+ * [facepy](https://facepy.readthedocs.org/en/latest/)
+
+**How to Use**
