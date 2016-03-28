@@ -13,7 +13,7 @@ from facepy import GraphAPI
 import datetime
 import random
 
-oauth_token = 'FB_API_KEY   '
+oauth_token = 'FB_API_KEY'
 graph = GraphAPI(oauth_token)
 friend_list = graph.get("me/friends?fields=birthday,name")
 birthday_wishes = ["Life wouldn't be the same without a friend like you. Happy Birthday!",
